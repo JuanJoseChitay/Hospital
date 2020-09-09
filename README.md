@@ -7,5 +7,4 @@ email: chitayluxjuanjose@gmail.com<br>
 
 
 #### Description
-We can have a short description of our project, in a way that is understandable for the people reading it.
-
+Solucionar problemas a pacientes al momento de cobrar el servicio hospitalario.
